@@ -1,4 +1,5 @@
 # C# Eğitim Kampı Çalışmalarım
+Bu repo, Murat Yücedağ’ın rehberliğinde geliştirdiğim 10 temel C# projesini içeriyor. Sıfırdan başladığım eğitimde, projeler ve somut örneklerle programlama kavramlarını pekiştirdiğim bir yolculuktu. Her proje detaylarını aşağıda bulabilirsiniz.
 
 📍 Proje 1: Temel Konular (Main Subjects)
 Bu projede C#’ta konsola yazı yazdırmayı ve değişkenlerle çalışmayı öğrendim. Console.Write() aynı satırda, Console.WriteLine() alt satıra geçerek yazdırma farkını keşfettim. String değişkenlerle müşteri bilgilerini, int değişkenlerle ürün fiyat ve adetlerini saklayıp hesaplamalar yaptım; böylece basit bir restoran menüsü ve sipariş toplamı programı oluşturdum.
