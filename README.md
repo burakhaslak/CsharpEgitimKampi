@@ -29,3 +29,9 @@ Bu projede foreach döngüsü ile diziler, listeler ve stringler üzerinde tek t
 
 📍Proje 8: Geriye Değer Döndürmeye ve Void Methodları
 Bu projede metodlar ile kod tekrarını önlemeyi ve programı daha düzenli hâle getirmeyi öğrendim. Void ve geriye değer döndüren metodlar kullanarak hesaplama ve bilgi gösterme işlemlerini gerçekleştirdim. Örnek uygulamada öğrencilerin sınav notlarını alıp ortalamalarını hesaplayan metodlar yazarak gerçek bir senaryoda uygulama pratiği yaptım.
+
+📍Proje 9: C# Veri Tabanlı Ürün-Kategori Bilgi Sistemi (Database Project) 
+Bu projede ADO.NET kullanarak SQL Server’daki tablolarla etkileşim sağladım. Kullanıcıdan alınan tablo seçimine göre verileri çekip ekrana listeledim ve DataTable ile verileri geçici olarak bellekte tutma pratiği yaptım. Böylece C# ile veritabanı işlemlerini temel düzeyde uygulama deneyimi kazandım.
+
+📍Proje 10: Menü Sipariş İşlem Paneli (DatabaseCRUD Project)
+Bu projede CRUD (Create, Read, Update, Delete) işlemlerini C# ile SQL Server üzerinde yaptım. Kullanıcıdan aldığım verilerle tabloya ekleme, listeleme, silme ve güncelleme işlemlerini gerçekleştirdim. Kod içinde kendi notlarımı da ekleyerek adım adım süreci belgeledim ve ADO.NET ile veri tabanı yönetimini uygulamalı olarak öğrendim.
