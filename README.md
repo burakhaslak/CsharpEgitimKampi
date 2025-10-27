@@ -46,3 +46,23 @@ Bu projede ADO.NET kullanarak SQL Server’daki tablolarla etkileşim sağladım
 📍Proje 10: Menü Sipariş İşlem Paneli (DatabaseCRUD Project)
 
 Bu projede CRUD (Create, Read, Update, Delete) işlemlerini C# ile SQL Server üzerinde yaptım. Kullanıcıdan aldığım verilerle tabloya ekleme, listeleme, silme ve güncelleme işlemlerini gerçekleştirdim. Kod içinde kendi notlarımı da ekleyerek adım adım süreci belgeledim ve ADO.NET ile veri tabanı yönetimini uygulamalı olarak öğrendim.
+
+📍Proje 11: Seyahat İstatistik Paneli Projesi
+
+Bu projede, Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri sorgulayan ve sonuçları Windows Forms arayüzü üzerinden kullanıcıya görselleştiren bir istatistik paneli geliştirdim. Proje, veri tabanındaki tur, rehber ve lokasyon bilgilerini analiz ederek anlık istatistikler sunmayı amaçladı. 💻
+
+Projede yer alan özellikler:
+*Toplam lokasyon, kapasite ve rehber sayısı gibi genel bilgilerin hesaplanması,
+*Ortalama kapasite ve ortalama tur fiyatının gösterilmesi,
+*En son eklenen ülkenin dinamik olarak görüntülenmesi,
+*Belirli şehirlerin (ör. Kapadokya, Roma) kapasite ve rehber bilgilerinin sorgulanması,
+*En yüksek kapasiteli ve en pahalı turların tespit edilmesi,
+*Belirli bir rehberin (ör. Ayşegül Çınar) sorumlu olduğu tur sayısının hesaplanması.
+
+Kazanımlarım:
+*Entity Framework kullanarak veri tabanı bağlantısı kurma, LINQ sorguları ile filtreleme ve veri çekme işlemlerini etkin şekilde uyguladım.
+*Windows Forms arayüzünde dinamik olarak değişen istatistikleri renkli ve kullanıcı dostu bir şekilde görselleştirdim.
+*Farklı tablo ilişkilerini yöneterek, rehber ve lokasyon bilgilerini ilişkisel olarak bağladım.
+*Kodun okunabilirliğini artırmak için yorum satırları ekleyerek düzenli bir yapı oluşturdum. 📊
+*Bu proje sayesinde C# dilinde veri tabanı yönetimi, Entity Framework mantığı ve arayüz tasarımı konularında önemli bir pratik kazandım. Gelecek projelerde bu temelleri daha ileri seviyede geliştirmeyi hedefliyorum.
+
