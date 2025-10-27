@@ -49,6 +49,9 @@ Bu projede CRUD (Create, Read, Update, Delete) işlemlerini C# ile SQL Server ü
 
 📍Proje 11: Seyahat İstatistik Paneli Projesi
 
+<img width="951" height="529" alt="image" src="https://github.com/user-attachments/assets/eb16ce35-3975-4bed-abc6-7abe4c24d0ca" />
+
+
 Bu projede, Entity Framework kullanarak bir seyahat veri tabanındaki bilgileri sorgulayan ve sonuçları Windows Forms arayüzü üzerinden kullanıcıya görselleştiren bir istatistik paneli geliştirdim. Proje, veri tabanındaki tur, rehber ve lokasyon bilgilerini analiz ederek anlık istatistikler sunmayı amaçladı. 💻
 
 Projede yer alan özellikler:
