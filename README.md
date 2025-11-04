@@ -44,9 +44,12 @@ In this project, I worked with ADO.NET to interact with tables in SQL Server. I 
 📍 **Project 10: Menu Order Processing Panel (Database CRUD Project)**
 In this project, I implemented CRUD (Create, Read, Update, Delete) operations on SQL Server using C#. I performed data insertion, listing, deletion, and updating based on user input. I also documented the process step-by-step with my own comments, gaining hands-on experience in database management with ADO.NET.
 
-<img width="951" height="529" alt="image" src="https://github.com/user-attachments/assets/eb16ce35-3975-4bed-abc6-7abe4c24d0ca" />
 
 📍 **Project 11: Travel Statistics Panel**
+
+<img width="951" height="529" alt="image" src="https://github.com/user-attachments/assets/eb16ce35-3975-4bed-abc6-7abe4c24d0ca" />
+
+
 
 In this project, I developed a **statistics panel** that queries information from a travel database using **Entity Framework** and visualizes the results through a **Windows Forms** interface.  
 The goal of the project was to analyze data about tours, guides, and locations and present real-time statistics to the user. 💻
